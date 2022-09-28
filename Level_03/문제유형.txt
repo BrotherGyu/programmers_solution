@@ -1,3 +1,5 @@
 - 동적계획법(Dynamic Programming)
     정수 삼각형.py
 
+- 해시 [python dict개념]
+    베스트앨범.py

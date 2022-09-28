@@ -1,4 +1,5 @@
 ## https://school.programmers.co.kr/learn/courses/30/lessons/1845?language=python3
+## 해시
 """
 세 번째(2번), 네 번째(3번) 폰켓몬을 선택
 이때, 첫 번째(3번) 폰켓몬과 네 번째(3번) 폰켓몬을 선택하는 방법은 한 종류(3번 폰켓몬 두 마리)의 폰켓몬만 가질 수 있지만,
