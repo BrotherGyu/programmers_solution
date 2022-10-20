@@ -1,0 +1,3 @@
+- 행렬의 곱셈.py
+행과 열 변경하는 list(zip(*li))
+리스트끼리 곱 import numpy as np - np.multiply(arr1,arr2)
