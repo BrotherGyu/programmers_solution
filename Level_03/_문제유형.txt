@@ -3,3 +3,6 @@
 
 - 해시 [python dict개념]
     베스트앨범.py
+
+- 힙(Heap)
+    이중우선순위큐.py [from queue import PriorityQueue]
