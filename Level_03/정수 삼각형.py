@@ -20,7 +20,6 @@
 triangle	result
 [[7], [3, 8], [8, 1, 0], [2, 7, 4, 4], [4, 5, 2, 6, 5]]	30
 """
-
 ## 보텀업 다이나믹 프로그래밍
 def solution(triangle):
     for x in range(len(triangle)-1,0,-1):
@@ -30,7 +29,6 @@ def solution(triangle):
             triangle[x-1][y]=max(a,b)
     answer = triangle[0][0]
     return answer
-
 """
 정확성  테스트
 테스트 1 〉	통과 (0.01ms, 10MB)
