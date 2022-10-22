@@ -58,6 +58,8 @@ def solution(operations):
     min_val=que.get()
     for i in range(que.qsize()-1):
         que.get()
+    if que.qsize()==0:
+        return [min_val,min_val]
     max_val=que.get()
     return [max_val,min_val]
 """
