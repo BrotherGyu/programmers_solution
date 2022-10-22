@@ -56,7 +56,6 @@ def solution(genres, plays):
             answer.append(append_li[check])
             check+=1    
     return answer
-
 """
 정확성  테스트
 테스트 1 〉	통과 (0.02ms, 10.2MB)
