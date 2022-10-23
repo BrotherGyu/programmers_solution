@@ -6,3 +6,6 @@
 
 - 힙(Heap)
     이중우선순위큐.py [from queue import PriorityQueue]
+
+- 탐욕법(Greedy)
+    단속카메라.py
