@@ -5,8 +5,9 @@
     베스트앨범.py
 
 - 힙(Heap)
+    야근 지수.py [import heapq]
     이중우선순위큐.py [from queue import PriorityQueue]
-
+    
 - 탐욕법(Greedy)
     단속카메라.py
 
