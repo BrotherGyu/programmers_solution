@@ -14,3 +14,6 @@
 
 - 연습문제
     최고의 집합.py
+
+- Summer/Winter Coding(~2018)
+    숫자 게임.py [from collections import deque]
