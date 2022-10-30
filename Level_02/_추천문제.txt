@@ -16,6 +16,10 @@
     from collections import Counter
     추가 입력된 값의 중복을 확인하는 경우 
 
+- 튜플.py
+    from collections import Counter
+    replace
+
 - 행렬의 곱셈.py
     행과 열 변경하는 list(zip(*li))
     리스트끼리 곱 import numpy as np - np.multiply(arr1,arr2)
