@@ -22,6 +22,8 @@
 - 튜플.py
     from collections import Counter
     replace
+- 프린터.py
+    deque
 
 - 행렬의 곱셈.py
     행과 열 변경하는 list(zip(*li))
