@@ -1,6 +1,9 @@
 - [1차] 캐시.py
     2018 KAKAO BLIND RECRUITMENT[deque]
 
+- 괄호 회전하기.py
+    월간 코드 챌린지 시즌2 [deque]
+
 - 다음 큰 숫자.py
     이진변환 문제
 
