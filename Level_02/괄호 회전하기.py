@@ -1,5 +1,5 @@
 ## https://school.programmers.co.kr/learn/courses/30/lessons/76502
-## 월간 코드 챌린지 시즌2
+## 월간 코드 챌린지 시즌2 [deque]
 """
 문제 설명
 다음 규칙을 지키는 문자열을 올바른 괄호 문자열이라고 정의합니다.
