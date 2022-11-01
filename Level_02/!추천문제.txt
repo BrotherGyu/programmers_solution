@@ -1,3 +1,7 @@
+- [1차] 뉴스 클러스터링.py
+    2018 KAKAO BLIND RECRUITMENT [re, deque]
+    *** re.sub() 사용법 꼭 숙지
+
 - [1차] 캐시.py
     2018 KAKAO BLIND RECRUITMENT[deque]
 
@@ -25,6 +29,7 @@
 - 튜플.py
     from collections import Counter
     replace
+    
 - 프린터.py
     deque
 
